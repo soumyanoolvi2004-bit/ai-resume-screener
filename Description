@@ -1,0 +1,7 @@
+# AI Resume Screening System
+
+An AI-based resume screening system that uses Natural Language Processing and Machine Learning to extract resume content, identify resume sections, validate document structure, and classify sections such as Skills, Education, Projects, Work Experience, and Certifications.
+
+### Technologies
+
+Python, NLP, Sentence Transformers, Logistic Regression, Scikit-learn, PyMuPDF, Tesseract OCR, Streamlit
